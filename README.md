@@ -1,20 +1,19 @@
 Recursion test
 ==========================
 
-This is a recursion test.
+This is a recursion test in PHP.
 
-1) Install
+Install
 -------
 
 ~~~shell
 $make
 ~~~
 
-2) Rename Recursion.php.dist to Recursion.php
+Rename Recursion.php.dist to Recursion.php.
+Implement filterTree method in Recursion.php.
 
-3) Implement filterTree method in Recursion.php
-
-4) Run test
+Run test
 --------
 
 ~~~shell
