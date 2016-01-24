@@ -1,0 +1,19 @@
+<?php
+/*
+ * This file is part of the recursion-test.
+ *
+ * Author: David Bou <contact@boudavid.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Kokoroe\Recruitment;
+
+class Recursion implements RecursionInterface
+{
+    public function filterTree(&$tree, $ids)
+    {
+        // Put your code here
+    }
+}
