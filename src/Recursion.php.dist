@@ -12,4 +12,8 @@ namespace Kokoroe\Recruitment;
 
 class Recursion implements RecursionInterface
 {
+    public function filterTree(&$tree, $ids)
+    {
+        // Put your code here
+    }
 }
